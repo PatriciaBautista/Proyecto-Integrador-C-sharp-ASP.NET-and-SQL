@@ -1,0 +1,111 @@
+﻿@model Grupo05_ProyectoWendy.Entidades.DatosCompletos
+@using Grupo05_ProyectoWendy.Entidades
+
+@{
+    ViewBag.Title = "MostrarDatosCompletos";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<div class="card-body">
+    <div class="card-header">
+        Visualización de empleados para reporte | WENDY <i class="fas fa-user-circle"></i>
+    </div>
+    <div class="card-body">
+        <div class="row justify-content-center">
+            <div class="col-md-6">
+                <div class="input-group mb-3">
+                    <input type="text" id="txtIdentificador" class="form-control" placeholder="Buscar por identificador">
+                    <div class="input-group-append">
+                        <button class="btn btn-primary" type="button" id="btnBuscar">Buscar</button>
+                        @Html.ActionLink("Ver lista", "MostrarDatosCompletos", null, new { @class = "btn btn-black" })
+                        <a href="@Url.Action("ListaEmpleados","EmpleadoWendy")" class="btn btn-outline-primary">
+                            <i class="fas fa-arrow-left"></i> Regresar
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <hr />
+    </div>
+    <div class="table-responsive" style="overflow-x: auto;">
+        <table class="table">
+            <thead>
+                <tr class="bg-danger">
+                    <th class="text-light">Identificador</th>
+                    <th class="text-light">Nombre_empleado</th>
+                    <th class="text-light">Cargo</th>
+                    <th class="text-light">Monto</th>
+                    <th class="text-light">Edad</th>
+                    <th class="text-light">País_empleado</th>
+                    <th class="text-light">Sucursal_wendy</th>
+                    <th class="text-light">Estado_del_empleado</th>
+                    <th class="text-light">Fecha_ingreso</th>
+                    <th class="text-light">Fecha_renuncia</th>
+                    <th class="text-light">Tipo_contrato</th>
+                    <th class="text-light">Fecha_de_emisión_wendy</th>
+                    <th class="text-light"></th>
+                </tr>
+            </thead>
+            <tbody>
+                @for (int i = 0; i < Model.Empleados.Count; i++)
+                {
+                    <tr>
+                        <td>@Model.Empleados[i].identificadorPersonal</td>
+                        <td>@Model.Empleados[i].nombreEmpleado</td>
+                        <td>@Model.Empleados[i].cargoEmpleado</td>
+                        <td>@Model.Empleados[i].monto</td>
+                        <td>@Model.Empleados[i].edadEmpleado</td>
+
+                        @if (i < Model.Direccion.Count)
+                        {
+                            <td>@Model.Direccion[i].paisEmpleado</td>
+                            <td>@Model.Direccion[i].sucursalEmpleado</td>
+                            <td>@Model.Direccion[i].estado</td>
+                        }
+                        else
+                        {
+                            <td colspan="3"></td>
+                        }
+                        @if (i < Model.DetalleLaboral.Count)
+                        {
+                            <td>@Model.DetalleLaboral[i].fechaIngreso</td>
+                            <td>@Model.DetalleLaboral[i].fechaRenuncia</td>
+                            <td>@Model.DetalleLaboral[i].tipoContrato</td>
+                            <td>@Model.DetalleLaboral[i].fechaEmision</td>
+                        }
+                        else
+                        {
+                            <td colspan="4"></td>
+                        }
+                    <td>
+                        <a href="@Url.Action("Detalles", "DatosCompletos", new { id = Model.Empleados[i].identificadorPersonal, parametro1 = Model.Direccion[i].idDireccion, parametro2 = Model.DetalleLaboral[i].idDetalleLaboral })" class="btn btn-warning btn-opacity">Visualizar</a>
+                    </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+
+@* Se agrega estilo *@
+<style>
+    .btn-opacity {
+        opacity: 0.7;
+    }
+        .btn-opacity:hover {
+            opacity: 1;
+        }
+    .btn-black {
+        background-color: #7d93a6;
+        color: white;
+    }
+
+</style>
+<script>
+    $(document).ready(function () {
+        $("#btnBuscar").click(function () {
+            var identificador = $("#txtIdentificador").val();
+            window.location.href = '@Url.Action("MostrarDatosCompletos", "DatosCompletos")?identificador=' + identificador;
+        });
+    });
+</script>

@@ -1,0 +1,93 @@
+﻿@model IEnumerable<Grupo05_ProyectoWendy.Entidades.EmpleadoWendy>
+
+@{
+    ViewBag.Title = "ListaEmpleados";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+<div class="card-body">
+    <div class="card-header">
+        Registro de empleados | WENDY <i class="fas fa-user-circle"></i>
+    </div>
+    <div class="card-body">
+        <div class="row">
+            <div class="col-md-6">
+                @Html.ActionLink("Crear nuevo", "Create", null, new { @class = "btn btn-dark" })
+                <a href="@Url.Action("MostrarDatosCompletos","DatosCompletos")" class="btn btn-success">
+                    <i class="fas fa-file-pdf"></i> Reporte
+                </a>
+            </div>
+
+                <div class="col-md-6">
+                    <div class="input-group mb-3">
+                        <input type="text" id="txtIdentificador" class="form-control" placeholder="Buscar por identificador">
+                        <div class="input-group-append">
+                            <button class="btn btn-primary" type="button" id="btnBuscar">Buscar</button>
+                            @Html.ActionLink("Ver lista", "ListaEmpleados", null, new { @class = "btn btn-black" })
+                        </div>
+                    </div>
+                </div>
+        </div>
+            <hr />
+        </div>
+    <div class="table-responsive">
+        <table class="table">
+            <thead>
+                <tr class="bg-danger">
+                    <th class="text-light">@Html.DisplayNameFor(model => model.idEmpleadoWendy)</th>
+                    <th class="text-light">@Html.DisplayNameFor(model => model.identificadorPersonal)</th>
+                    <th class="text-light">@Html.DisplayNameFor(model => model.nombreEmpleado)</th>
+                    <th class="text-light">@Html.DisplayNameFor(model => model.edadEmpleado)</th>
+                    <th class="text-light">@Html.DisplayNameFor(model => model.cargoEmpleado)</th>
+                    <th class="text-light">@Html.DisplayNameFor(model => model.telefonoEmpleado)</th>
+                    <th class="text-light">@Html.DisplayNameFor(model => model.sexoEmpleado)</th>
+                    <th class="text-light">@Html.DisplayNameFor(model => model.monto)</th>
+                    <th class="text-light">@Html.DisplayNameFor(model => model.activoEmpleado)</th>
+                    <th class="text-light">@Html.DisplayNameFor(model => model.idDireccion)</th>
+                    <th class="text-light">@Html.DisplayNameFor(model => model.idDetalleLaboral)</th>
+                    <th class="text-light"></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@Html.DisplayFor(modelItem => item.idEmpleadoWendy)</td>
+                        <td>@Html.DisplayFor(modelItem => item.identificadorPersonal)</td>
+                        <td>@Html.DisplayFor(modelItem => item.nombreEmpleado)</td>
+                        <td>@Html.DisplayFor(modelItem => item.edadEmpleado)</td>
+                        <td>@Html.DisplayFor(modelItem => item.cargoEmpleado)</td>
+                        <td>@Html.DisplayFor(modelItem => item.telefonoEmpleado)</td>
+                        <td>@Html.DisplayFor(modelItem => item.sexoEmpleado)</td>
+                        <td>@Html.DisplayFor(modelItem => item.monto)</td>
+                        <td>@Html.DisplayFor(modelItem => item.activoEmpleado)</td>
+                        <td>@Html.DisplayFor(modelItem => item.idDireccion)</td>
+                        <td>@Html.DisplayFor(modelItem => item.idDetalleLaboral)</td>
+                        <td>
+                            <div class="btn-group" role="group" aria-label="Acciones">
+                                @Html.ActionLink("Editar", "Edit", new { id = item.idEmpleadoWendy }, new { @class = "btn btn-outline-success btn-sm ml-1" })
+                                @Html.ActionLink("Eliminar", "Delete", new { id = item.idEmpleadoWendy }, new { @class = "btn btn-outline-danger btn-sm ml-1" })
+                            </div>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+
+<style>
+    .btn-black {
+        background-color: #7d93a6;
+        color: white;
+    }
+</style >
+    <script >
+    $(document).ready(function () {
+        $("#btnBuscar").click(function () {
+            var identificador = $("#txtIdentificador").val();
+            window.location.href = '@Url.Action("ListaEmpleados", "EmpleadoWendy")?identificador=' + identificador;
+        });
+    });
+    </script >

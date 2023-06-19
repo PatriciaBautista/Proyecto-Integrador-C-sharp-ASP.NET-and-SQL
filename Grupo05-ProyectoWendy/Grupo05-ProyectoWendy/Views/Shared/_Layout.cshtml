@@ -1,0 +1,83 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GRUPO 5 - WENDY</title>
+    @Styles.Render("~/Content/Site.css")
+    @*@Scripts.Render("~/bundles/modernizr")*@
+</head>
+<body class="sb-nav-fixed">
+    <nav class="sb-topnav navbar navbar-expand navbar-dark bg-danger">
+        <!-- Navbar Brand-->
+        <a class="navbar-brand ps-3" href="@Url.Action("Index","Home")">Empresas Wendy</a>
+        <!-- Sidebar Toggle-->
+        <button class="btn btn-link btn-sm order-1 order-lg-0 me-4 me-lg-0" id="sidebarToggle" href="#!"><i class="fas fa-bars"></i></button>
+        <!-- Navbar Search-->
+        <form class="d-none d-md-inline-block form-inline ms-auto me-0 me-md-3 my-2 my-md-0">
+            <div class="input-group">
+            </div>
+        </form>
+        <!-- Navbar-->
+        <ul class="navbar-nav ms-auto ms-md-0 me-3 me-lg-4">
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" id="navbarDropdown" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false"><i class="fas fa-user fa-fw"></i></a>
+                <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="navbarDropdown">
+                    <li><a class="dropdown-item" href="#!">Cerrar sesión</a></li>
+                </ul>
+            </li>
+        </ul>
+    </nav>
+    <div id="layoutSidenav">
+        <div id="layoutSidenav_nav">
+            <nav class="sb-sidenav accordion sb-sidenav-dark bg-danger" id="sidenavAccordion">
+                <div class="sb-sidenav-menu">
+                    <div class="nav">
+                        <div class="sb-sidenav-menu-heading">GENERAL</div>
+                        <a class="nav-link" href="@Url.Action("Detalle","Mantenedor")">
+                            <div class="sb-nav-link-icon"><i class="fas fa-arrow-alt-circle-right"></i></div>
+                            Detalle laboral
+                        </a>
+                        <a class="nav-link" href="@Url.Action("Direccion","Mantenedor")">
+                            <div class="sb-nav-link-icon"><i class="fas fa-map"></i></div>
+                            Dirección
+                        </a>
+                        <div class="sb-sidenav-menu-heading">EMPLEADO INDEMNIZACIÓN</div>
+                        <a class="nav-link" href="@Url.Action("DatosReporte","Mantenedor")">
+                            <div class="sb-nav-link-icon"><i class="fas fa-database"></i></div>
+                            Datos y reporte
+                        </a>
+                        <div class="sb-sidenav-menu-heading">Usuarios</div>
+                        <a class="nav-link" href="@Url.Action("usuario","Home")">
+                            <div class="sb-nav-link-icon"><i class="fas fa-users"></i></div>
+                            Administradores
+                        </a>
+                    </div>
+                </div>
+            </nav>
+        </div>
+        <div id="layoutSidenav_content">
+            <main>
+                <div class="container-fluid px-4">
+                    @RenderBody()
+                </div>
+            </main>
+            <footer>
+                <hr />
+                <p>&copy; @DateTime.Now.Year - Proyecto integrador - Wendy Grupo 05</p>
+            </footer>
+        </div>
+    </div>
+    
+    @*<li>@Html.ActionLink("Inicio", "Index", "Home", new { area = "" }, new { @class = "nav-link" })</li>
+        <li>@Html.ActionLink("Acerca de", "About", "Home", new { area = "" }, new { @class = "nav-link" })</li>
+        <li>@Html.ActionLink("Contacto", "Contact", "Home", new { area = "" }, new { @class = "nav-link" })</li>*@
+
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @Scripts.Render("~/bundles/complementos")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

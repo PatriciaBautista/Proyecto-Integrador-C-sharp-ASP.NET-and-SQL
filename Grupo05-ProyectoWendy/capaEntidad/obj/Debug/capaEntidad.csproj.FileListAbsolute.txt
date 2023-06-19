@@ -1,0 +1,12 @@
+C:\Users\Patty\Desktop\Grupo05-ProyectoWendy\Grupo05-ProyectoWendy\capaEntidad\bin\Debug\capaEntidad.dll
+C:\Users\Patty\Desktop\Grupo05-ProyectoWendy\Grupo05-ProyectoWendy\capaEntidad\bin\Debug\capaEntidad.pdb
+C:\Users\Patty\Desktop\Grupo05-ProyectoWendy\Grupo05-ProyectoWendy\capaEntidad\obj\Debug\capaEntidad.csproj.AssemblyReference.cache
+C:\Users\Patty\Desktop\Grupo05-ProyectoWendy\Grupo05-ProyectoWendy\capaEntidad\obj\Debug\capaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Patty\Desktop\Grupo05-ProyectoWendy\Grupo05-ProyectoWendy\capaEntidad\obj\Debug\capaEntidad.dll
+C:\Users\Patty\Desktop\Grupo05-ProyectoWendy\Grupo05-ProyectoWendy\capaEntidad\obj\Debug\capaEntidad.pdb
+C:\Users\Patty\Downloads\Grupo05-ProyectoWendy\Grupo05-ProyectoWendy\Grupo05-ProyectoWendy\capaEntidad\bin\Debug\capaEntidad.dll
+C:\Users\Patty\Downloads\Grupo05-ProyectoWendy\Grupo05-ProyectoWendy\Grupo05-ProyectoWendy\capaEntidad\bin\Debug\capaEntidad.pdb
+C:\Users\Patty\Downloads\Grupo05-ProyectoWendy\Grupo05-ProyectoWendy\Grupo05-ProyectoWendy\capaEntidad\obj\Debug\capaEntidad.csproj.AssemblyReference.cache
+C:\Users\Patty\Downloads\Grupo05-ProyectoWendy\Grupo05-ProyectoWendy\Grupo05-ProyectoWendy\capaEntidad\obj\Debug\capaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Patty\Downloads\Grupo05-ProyectoWendy\Grupo05-ProyectoWendy\Grupo05-ProyectoWendy\capaEntidad\obj\Debug\capaEntidad.dll
+C:\Users\Patty\Downloads\Grupo05-ProyectoWendy\Grupo05-ProyectoWendy\Grupo05-ProyectoWendy\capaEntidad\obj\Debug\capaEntidad.pdb

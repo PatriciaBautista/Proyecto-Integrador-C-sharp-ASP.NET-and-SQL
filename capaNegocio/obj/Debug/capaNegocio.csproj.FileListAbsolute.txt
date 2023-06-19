@@ -1,0 +1,107 @@
+C:\Users\Patty\Desktop\Grupo05-ProyectoWendy\Grupo05-ProyectoWendy\capaNegocio\bin\Debug\capaNegocio.dll
+C:\Users\Patty\Desktop\Grupo05-ProyectoWendy\Grupo05-ProyectoWendy\capaNegocio\bin\Debug\capaNegocio.pdb
+C:\Users\Patty\Desktop\Grupo05-ProyectoWendy\Grupo05-ProyectoWendy\capaNegocio\bin\Debug\capaDatos.dll
+C:\Users\Patty\Desktop\Grupo05-ProyectoWendy\Grupo05-ProyectoWendy\capaNegocio\bin\Debug\capaEntidad.dll
+C:\Users\Patty\Desktop\Grupo05-ProyectoWendy\Grupo05-ProyectoWendy\capaNegocio\bin\Debug\capaDatos.pdb
+C:\Users\Patty\Desktop\Grupo05-ProyectoWendy\Grupo05-ProyectoWendy\capaNegocio\bin\Debug\capaEntidad.pdb
+C:\Users\Patty\Desktop\Grupo05-ProyectoWendy\Grupo05-ProyectoWendy\capaNegocio\obj\Debug\capaNegocio.csproj.AssemblyReference.cache
+C:\Users\Patty\Desktop\Grupo05-ProyectoWendy\Grupo05-ProyectoWendy\capaNegocio\obj\Debug\capaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Patty\Desktop\Grupo05-ProyectoWendy\Grupo05-ProyectoWendy\capaNegocio\obj\Debug\capaNegocio.csproj.CopyComplete
+C:\Users\Patty\Desktop\Grupo05-ProyectoWendy\Grupo05-ProyectoWendy\capaNegocio\obj\Debug\capaNegocio.dll
+C:\Users\Patty\Desktop\Grupo05-ProyectoWendy\Grupo05-ProyectoWendy\capaNegocio\obj\Debug\capaNegocio.pdb
+C:\Users\Patty\Downloads\Grupo05-ProyectoWendy\Grupo05-ProyectoWendy\Grupo05-ProyectoWendy\capaNegocio\bin\Debug\capaNegocio.dll
+C:\Users\Patty\Downloads\Grupo05-ProyectoWendy\Grupo05-ProyectoWendy\Grupo05-ProyectoWendy\capaNegocio\bin\Debug\capaNegocio.pdb
+C:\Users\Patty\Downloads\Grupo05-ProyectoWendy\Grupo05-ProyectoWendy\Grupo05-ProyectoWendy\capaNegocio\bin\Debug\capaDatos.dll
+C:\Users\Patty\Downloads\Grupo05-ProyectoWendy\Grupo05-ProyectoWendy\Grupo05-ProyectoWendy\capaNegocio\bin\Debug\capaEntidad.dll
+C:\Users\Patty\Downloads\Grupo05-ProyectoWendy\Grupo05-ProyectoWendy\Grupo05-ProyectoWendy\capaNegocio\bin\Debug\capaDatos.pdb
+C:\Users\Patty\Downloads\Grupo05-ProyectoWendy\Grupo05-ProyectoWendy\Grupo05-ProyectoWendy\capaNegocio\bin\Debug\capaEntidad.pdb
+C:\Users\Patty\Downloads\Grupo05-ProyectoWendy\Grupo05-ProyectoWendy\Grupo05-ProyectoWendy\capaNegocio\obj\Debug\capaNegocio.csproj.AssemblyReference.cache
+C:\Users\Patty\Downloads\Grupo05-ProyectoWendy\Grupo05-ProyectoWendy\Grupo05-ProyectoWendy\capaNegocio\obj\Debug\capaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Patty\Downloads\Grupo05-ProyectoWendy\Grupo05-ProyectoWendy\Grupo05-ProyectoWendy\capaNegocio\obj\Debug\capaNegocio.csproj.CopyComplete
+C:\Users\Patty\Downloads\Grupo05-ProyectoWendy\Grupo05-ProyectoWendy\Grupo05-ProyectoWendy\capaNegocio\obj\Debug\capaNegocio.dll
+C:\Users\Patty\Downloads\Grupo05-ProyectoWendy\Grupo05-ProyectoWendy\Grupo05-ProyectoWendy\capaNegocio\obj\Debug\capaNegocio.pdb
+C:\Users\Patty\Documents\Grupo05-ProyectoWendy\Grupo05-ProyectoWendy\Grupo05-ProyectoWendy\capaNegocio\bin\Debug\capaNegocio.dll
+C:\Users\Patty\Documents\Grupo05-ProyectoWendy\Grupo05-ProyectoWendy\Grupo05-ProyectoWendy\capaNegocio\bin\Debug\capaNegocio.pdb
+C:\Users\Patty\Documents\Grupo05-ProyectoWendy\Grupo05-ProyectoWendy\Grupo05-ProyectoWendy\capaNegocio\bin\Debug\capaDatos.dll
+C:\Users\Patty\Documents\Grupo05-ProyectoWendy\Grupo05-ProyectoWendy\Grupo05-ProyectoWendy\capaNegocio\bin\Debug\capaEntidad.dll
+C:\Users\Patty\Documents\Grupo05-ProyectoWendy\Grupo05-ProyectoWendy\Grupo05-ProyectoWendy\capaNegocio\bin\Debug\capaDatos.pdb
+C:\Users\Patty\Documents\Grupo05-ProyectoWendy\Grupo05-ProyectoWendy\Grupo05-ProyectoWendy\capaNegocio\bin\Debug\capaEntidad.pdb
+C:\Users\Patty\Documents\Grupo05-ProyectoWendy\Grupo05-ProyectoWendy\Grupo05-ProyectoWendy\capaNegocio\obj\Debug\capaNegocio.csproj.AssemblyReference.cache
+C:\Users\Patty\Documents\Grupo05-ProyectoWendy\Grupo05-ProyectoWendy\Grupo05-ProyectoWendy\capaNegocio\obj\Debug\capaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Patty\Documents\Grupo05-ProyectoWendy\Grupo05-ProyectoWendy\Grupo05-ProyectoWendy\capaNegocio\obj\Debug\capaNegocio.csproj.CopyComplete
+C:\Users\Patty\Documents\Grupo05-ProyectoWendy\Grupo05-ProyectoWendy\Grupo05-ProyectoWendy\capaNegocio\obj\Debug\capaNegocio.dll
+C:\Users\Patty\Documents\Grupo05-ProyectoWendy\Grupo05-ProyectoWendy\Grupo05-ProyectoWendy\capaNegocio\obj\Debug\capaNegocio.pdb
+C:\Users\emers\Downloads\ProyectoHFP18-06\Grupo05-ProyectoWendy (2)\Grupo05-ProyectoWendy\capaNegocio\bin\Debug\capaNegocio.dll
+C:\Users\emers\Downloads\ProyectoHFP18-06\Grupo05-ProyectoWendy (2)\Grupo05-ProyectoWendy\capaNegocio\bin\Debug\capaNegocio.pdb
+C:\Users\emers\Downloads\ProyectoHFP18-06\Grupo05-ProyectoWendy (2)\Grupo05-ProyectoWendy\capaNegocio\bin\Debug\capaDatos.dll
+C:\Users\emers\Downloads\ProyectoHFP18-06\Grupo05-ProyectoWendy (2)\Grupo05-ProyectoWendy\capaNegocio\bin\Debug\capaEntidad.dll
+C:\Users\emers\Downloads\ProyectoHFP18-06\Grupo05-ProyectoWendy (2)\Grupo05-ProyectoWendy\capaNegocio\bin\Debug\capaDatos.pdb
+C:\Users\emers\Downloads\ProyectoHFP18-06\Grupo05-ProyectoWendy (2)\Grupo05-ProyectoWendy\capaNegocio\bin\Debug\capaEntidad.pdb
+C:\Users\emers\Downloads\ProyectoHFP18-06\Grupo05-ProyectoWendy (2)\Grupo05-ProyectoWendy\capaNegocio\obj\Debug\capaNegocio.csproj.AssemblyReference.cache
+C:\Users\emers\Downloads\ProyectoHFP18-06\Grupo05-ProyectoWendy (2)\Grupo05-ProyectoWendy\capaNegocio\obj\Debug\capaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\emers\Downloads\ProyectoHFP18-06\Grupo05-ProyectoWendy (2)\Grupo05-ProyectoWendy\capaNegocio\obj\Debug\capaNegocio.csproj.CopyComplete
+C:\Users\emers\Downloads\ProyectoHFP18-06\Grupo05-ProyectoWendy (2)\Grupo05-ProyectoWendy\capaNegocio\obj\Debug\capaNegocio.dll
+C:\Users\emers\Downloads\ProyectoHFP18-06\Grupo05-ProyectoWendy (2)\Grupo05-ProyectoWendy\capaNegocio\obj\Debug\capaNegocio.pdb
+C:\Users\emers\Downloads\ProyectoHFP18-06\Grupo05-ProyectoWendy (2)\Grupo05-ProyectoWendy\capaNegocio\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\emers\Downloads\ProyectoHFP18-06\Grupo05-ProyectoWendy (2)\Grupo05-ProyectoWendy\capaNegocio\bin\Debug\Common.Logging.Core.dll
+C:\Users\emers\Downloads\ProyectoHFP18-06\Grupo05-ProyectoWendy (2)\Grupo05-ProyectoWendy\capaNegocio\bin\Debug\Common.Logging.dll
+C:\Users\emers\Downloads\ProyectoHFP18-06\Grupo05-ProyectoWendy (2)\Grupo05-ProyectoWendy\capaNegocio\bin\Debug\itext.barcodes.dll
+C:\Users\emers\Downloads\ProyectoHFP18-06\Grupo05-ProyectoWendy (2)\Grupo05-ProyectoWendy\capaNegocio\bin\Debug\itext.forms.dll
+C:\Users\emers\Downloads\ProyectoHFP18-06\Grupo05-ProyectoWendy (2)\Grupo05-ProyectoWendy\capaNegocio\bin\Debug\itext.io.dll
+C:\Users\emers\Downloads\ProyectoHFP18-06\Grupo05-ProyectoWendy (2)\Grupo05-ProyectoWendy\capaNegocio\bin\Debug\itext.kernel.dll
+C:\Users\emers\Downloads\ProyectoHFP18-06\Grupo05-ProyectoWendy (2)\Grupo05-ProyectoWendy\capaNegocio\bin\Debug\itext.layout.dll
+C:\Users\emers\Downloads\ProyectoHFP18-06\Grupo05-ProyectoWendy (2)\Grupo05-ProyectoWendy\capaNegocio\bin\Debug\itext.pdfa.dll
+C:\Users\emers\Downloads\ProyectoHFP18-06\Grupo05-ProyectoWendy (2)\Grupo05-ProyectoWendy\capaNegocio\bin\Debug\itext.sign.dll
+C:\Users\emers\Downloads\ProyectoHFP18-06\Grupo05-ProyectoWendy (2)\Grupo05-ProyectoWendy\capaNegocio\bin\Debug\itext.styledxmlparser.dll
+C:\Users\emers\Downloads\ProyectoHFP18-06\Grupo05-ProyectoWendy (2)\Grupo05-ProyectoWendy\capaNegocio\bin\Debug\itext.svg.dll
+C:\Users\emers\Downloads\ProyectoHFP18-06\Grupo05-ProyectoWendy (2)\Grupo05-ProyectoWendy\capaNegocio\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\emers\Downloads\ProyectoHFP18-06\Grupo05-ProyectoWendy (2)\Grupo05-ProyectoWendy\capaNegocio\bin\Debug\Common.Logging.pdb
+C:\Users\emers\Downloads\ProyectoHFP18-06\Grupo05-ProyectoWendy (2)\Grupo05-ProyectoWendy\capaNegocio\bin\Debug\Common.Logging.xml
+C:\Users\emers\Downloads\ProyectoHFP18-06\Grupo05-ProyectoWendy (2)\Grupo05-ProyectoWendy\capaNegocio\bin\Debug\Common.Logging.Core.pdb
+C:\Users\emers\Downloads\ProyectoHFP18-06\Grupo05-ProyectoWendy (2)\Grupo05-ProyectoWendy\capaNegocio\bin\Debug\Common.Logging.Core.xml
+C:\Users\emers\Downloads\ProyectoHFP18-06\Grupo05-ProyectoWendy (2)\Grupo05-ProyectoWendy\capaNegocio\bin\Debug\itext.barcodes.xml
+C:\Users\emers\Downloads\ProyectoHFP18-06\Grupo05-ProyectoWendy (2)\Grupo05-ProyectoWendy\capaNegocio\bin\Debug\itext.forms.xml
+C:\Users\emers\Downloads\ProyectoHFP18-06\Grupo05-ProyectoWendy (2)\Grupo05-ProyectoWendy\capaNegocio\bin\Debug\itext.io.xml
+C:\Users\emers\Downloads\ProyectoHFP18-06\Grupo05-ProyectoWendy (2)\Grupo05-ProyectoWendy\capaNegocio\bin\Debug\itext.kernel.xml
+C:\Users\emers\Downloads\ProyectoHFP18-06\Grupo05-ProyectoWendy (2)\Grupo05-ProyectoWendy\capaNegocio\bin\Debug\itext.layout.xml
+C:\Users\emers\Downloads\ProyectoHFP18-06\Grupo05-ProyectoWendy (2)\Grupo05-ProyectoWendy\capaNegocio\bin\Debug\itext.pdfa.xml
+C:\Users\emers\Downloads\ProyectoHFP18-06\Grupo05-ProyectoWendy (2)\Grupo05-ProyectoWendy\capaNegocio\bin\Debug\itext.sign.xml
+C:\Users\emers\Downloads\ProyectoHFP18-06\Grupo05-ProyectoWendy (2)\Grupo05-ProyectoWendy\capaNegocio\bin\Debug\itext.styledxmlparser.xml
+C:\Users\emers\Downloads\ProyectoHFP18-06\Grupo05-ProyectoWendy (2)\Grupo05-ProyectoWendy\capaNegocio\bin\Debug\itext.svg.xml
+C:\Users\Patty\Documents\ProyectoHFP18-06\ProyectoHFP18-06\Grupo05-ProyectoWendy (2)\Grupo05-ProyectoWendy\capaNegocio\bin\Debug\capaNegocio.dll
+C:\Users\Patty\Documents\ProyectoHFP18-06\ProyectoHFP18-06\Grupo05-ProyectoWendy (2)\Grupo05-ProyectoWendy\capaNegocio\bin\Debug\capaNegocio.pdb
+C:\Users\Patty\Documents\ProyectoHFP18-06\ProyectoHFP18-06\Grupo05-ProyectoWendy (2)\Grupo05-ProyectoWendy\capaNegocio\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Patty\Documents\ProyectoHFP18-06\ProyectoHFP18-06\Grupo05-ProyectoWendy (2)\Grupo05-ProyectoWendy\capaNegocio\bin\Debug\capaDatos.dll
+C:\Users\Patty\Documents\ProyectoHFP18-06\ProyectoHFP18-06\Grupo05-ProyectoWendy (2)\Grupo05-ProyectoWendy\capaNegocio\bin\Debug\capaEntidad.dll
+C:\Users\Patty\Documents\ProyectoHFP18-06\ProyectoHFP18-06\Grupo05-ProyectoWendy (2)\Grupo05-ProyectoWendy\capaNegocio\bin\Debug\Common.Logging.Core.dll
+C:\Users\Patty\Documents\ProyectoHFP18-06\ProyectoHFP18-06\Grupo05-ProyectoWendy (2)\Grupo05-ProyectoWendy\capaNegocio\bin\Debug\Common.Logging.dll
+C:\Users\Patty\Documents\ProyectoHFP18-06\ProyectoHFP18-06\Grupo05-ProyectoWendy (2)\Grupo05-ProyectoWendy\capaNegocio\bin\Debug\itext.barcodes.dll
+C:\Users\Patty\Documents\ProyectoHFP18-06\ProyectoHFP18-06\Grupo05-ProyectoWendy (2)\Grupo05-ProyectoWendy\capaNegocio\bin\Debug\itext.forms.dll
+C:\Users\Patty\Documents\ProyectoHFP18-06\ProyectoHFP18-06\Grupo05-ProyectoWendy (2)\Grupo05-ProyectoWendy\capaNegocio\bin\Debug\itext.io.dll
+C:\Users\Patty\Documents\ProyectoHFP18-06\ProyectoHFP18-06\Grupo05-ProyectoWendy (2)\Grupo05-ProyectoWendy\capaNegocio\bin\Debug\itext.kernel.dll
+C:\Users\Patty\Documents\ProyectoHFP18-06\ProyectoHFP18-06\Grupo05-ProyectoWendy (2)\Grupo05-ProyectoWendy\capaNegocio\bin\Debug\itext.layout.dll
+C:\Users\Patty\Documents\ProyectoHFP18-06\ProyectoHFP18-06\Grupo05-ProyectoWendy (2)\Grupo05-ProyectoWendy\capaNegocio\bin\Debug\itext.pdfa.dll
+C:\Users\Patty\Documents\ProyectoHFP18-06\ProyectoHFP18-06\Grupo05-ProyectoWendy (2)\Grupo05-ProyectoWendy\capaNegocio\bin\Debug\itext.sign.dll
+C:\Users\Patty\Documents\ProyectoHFP18-06\ProyectoHFP18-06\Grupo05-ProyectoWendy (2)\Grupo05-ProyectoWendy\capaNegocio\bin\Debug\itext.styledxmlparser.dll
+C:\Users\Patty\Documents\ProyectoHFP18-06\ProyectoHFP18-06\Grupo05-ProyectoWendy (2)\Grupo05-ProyectoWendy\capaNegocio\bin\Debug\itext.svg.dll
+C:\Users\Patty\Documents\ProyectoHFP18-06\ProyectoHFP18-06\Grupo05-ProyectoWendy (2)\Grupo05-ProyectoWendy\capaNegocio\bin\Debug\capaDatos.pdb
+C:\Users\Patty\Documents\ProyectoHFP18-06\ProyectoHFP18-06\Grupo05-ProyectoWendy (2)\Grupo05-ProyectoWendy\capaNegocio\bin\Debug\capaEntidad.pdb
+C:\Users\Patty\Documents\ProyectoHFP18-06\ProyectoHFP18-06\Grupo05-ProyectoWendy (2)\Grupo05-ProyectoWendy\capaNegocio\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Patty\Documents\ProyectoHFP18-06\ProyectoHFP18-06\Grupo05-ProyectoWendy (2)\Grupo05-ProyectoWendy\capaNegocio\bin\Debug\Common.Logging.pdb
+C:\Users\Patty\Documents\ProyectoHFP18-06\ProyectoHFP18-06\Grupo05-ProyectoWendy (2)\Grupo05-ProyectoWendy\capaNegocio\bin\Debug\Common.Logging.xml
+C:\Users\Patty\Documents\ProyectoHFP18-06\ProyectoHFP18-06\Grupo05-ProyectoWendy (2)\Grupo05-ProyectoWendy\capaNegocio\bin\Debug\Common.Logging.Core.pdb
+C:\Users\Patty\Documents\ProyectoHFP18-06\ProyectoHFP18-06\Grupo05-ProyectoWendy (2)\Grupo05-ProyectoWendy\capaNegocio\bin\Debug\Common.Logging.Core.xml
+C:\Users\Patty\Documents\ProyectoHFP18-06\ProyectoHFP18-06\Grupo05-ProyectoWendy (2)\Grupo05-ProyectoWendy\capaNegocio\bin\Debug\itext.barcodes.xml
+C:\Users\Patty\Documents\ProyectoHFP18-06\ProyectoHFP18-06\Grupo05-ProyectoWendy (2)\Grupo05-ProyectoWendy\capaNegocio\bin\Debug\itext.forms.xml
+C:\Users\Patty\Documents\ProyectoHFP18-06\ProyectoHFP18-06\Grupo05-ProyectoWendy (2)\Grupo05-ProyectoWendy\capaNegocio\bin\Debug\itext.io.xml
+C:\Users\Patty\Documents\ProyectoHFP18-06\ProyectoHFP18-06\Grupo05-ProyectoWendy (2)\Grupo05-ProyectoWendy\capaNegocio\bin\Debug\itext.kernel.xml
+C:\Users\Patty\Documents\ProyectoHFP18-06\ProyectoHFP18-06\Grupo05-ProyectoWendy (2)\Grupo05-ProyectoWendy\capaNegocio\bin\Debug\itext.layout.xml
+C:\Users\Patty\Documents\ProyectoHFP18-06\ProyectoHFP18-06\Grupo05-ProyectoWendy (2)\Grupo05-ProyectoWendy\capaNegocio\bin\Debug\itext.pdfa.xml
+C:\Users\Patty\Documents\ProyectoHFP18-06\ProyectoHFP18-06\Grupo05-ProyectoWendy (2)\Grupo05-ProyectoWendy\capaNegocio\bin\Debug\itext.sign.xml
+C:\Users\Patty\Documents\ProyectoHFP18-06\ProyectoHFP18-06\Grupo05-ProyectoWendy (2)\Grupo05-ProyectoWendy\capaNegocio\bin\Debug\itext.styledxmlparser.xml
+C:\Users\Patty\Documents\ProyectoHFP18-06\ProyectoHFP18-06\Grupo05-ProyectoWendy (2)\Grupo05-ProyectoWendy\capaNegocio\bin\Debug\itext.svg.xml
+C:\Users\Patty\Documents\ProyectoHFP18-06\ProyectoHFP18-06\Grupo05-ProyectoWendy (2)\Grupo05-ProyectoWendy\capaNegocio\obj\Debug\capaNegocio.csproj.AssemblyReference.cache
+C:\Users\Patty\Documents\ProyectoHFP18-06\ProyectoHFP18-06\Grupo05-ProyectoWendy (2)\Grupo05-ProyectoWendy\capaNegocio\obj\Debug\capaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Patty\Documents\ProyectoHFP18-06\ProyectoHFP18-06\Grupo05-ProyectoWendy (2)\Grupo05-ProyectoWendy\capaNegocio\obj\Debug\capaNegocio.csproj.CopyComplete
+C:\Users\Patty\Documents\ProyectoHFP18-06\ProyectoHFP18-06\Grupo05-ProyectoWendy (2)\Grupo05-ProyectoWendy\capaNegocio\obj\Debug\capaNegocio.dll
+C:\Users\Patty\Documents\ProyectoHFP18-06\ProyectoHFP18-06\Grupo05-ProyectoWendy (2)\Grupo05-ProyectoWendy\capaNegocio\obj\Debug\capaNegocio.pdb

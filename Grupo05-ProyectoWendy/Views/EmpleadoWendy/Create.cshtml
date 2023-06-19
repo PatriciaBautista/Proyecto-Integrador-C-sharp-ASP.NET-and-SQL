@@ -1,0 +1,166 @@
+﻿@model Grupo05_ProyectoWendy.Entidades.EmpleadoWendy
+
+@{
+    ViewBag.Title = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    <div class="card-body">
+        <div class="card-header">
+            Registros de empleados | WENDY <i class="fas fa-user-circle"></i>
+        </div>
+
+        <div class="card-body">
+            <div class="form-group">
+                <label class="control-label col-md-2">Importar datos desde archivo:</label>
+                <div class="col-md-10">
+                    <input type="file" name="archivoDatos" class="btn btn-primary" id="archivoDatos" accept=".txt" />
+                    <button type="button" class="btn btn-outline-primary" onclick="importarDatos()">
+                        <i class="fas fa-arrow-up"></i> Importar
+                    </button>
+                </div>
+            </div>
+        </div>
+
+
+
+        <div class="form-horizontal">
+            <hr />
+            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.identificadorPersonal, htmlAttributes: new { @class = "control-label col-md-4" })
+                        <div class="col-md-8">
+                            @Html.EditorFor(model => model.identificadorPersonal, new { htmlAttributes = new { @class = "form-control" } })
+                            @Html.ValidationMessageFor(model => model.identificadorPersonal, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.edadEmpleado, htmlAttributes: new { @class = "control-label col-md-4" })
+                        <div class="col-md-8">
+                            @Html.EditorFor(model => model.edadEmpleado, new { htmlAttributes = new { @class = "form-control" } })
+                            @Html.ValidationMessageFor(model => model.edadEmpleado, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.telefonoEmpleado, htmlAttributes: new { @class = "control-label col-md-4" })
+                        <div class="col-md-8">
+                            @Html.EditorFor(model => model.telefonoEmpleado, new { htmlAttributes = new { @class = "form-control" } })
+                            @Html.ValidationMessageFor(model => model.telefonoEmpleado, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.monto, htmlAttributes: new { @class = "control-label col-md-4" })
+                        <div class="col-md-8">
+                            @Html.EditorFor(model => model.monto, new { htmlAttributes = new { @class = "form-control" } })
+                            @Html.ValidationMessageFor(model => model.monto, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.idDireccion, htmlAttributes: new { @class = "control-label col-md-2" })
+                        <div class="col-md-8">
+                            @Html.EditorFor(model => model.idDireccion, new { htmlAttributes = new { @class = "form-control" } })
+                            @Html.ValidationMessageFor(model => model.idDireccion, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-6">
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.nombreEmpleado, htmlAttributes: new { @class = "control-label col-md-4" })
+                        <div class="col-md-8">
+                            @Html.EditorFor(model => model.nombreEmpleado, new { htmlAttributes = new { @class = "form-control" } })
+                            @Html.ValidationMessageFor(model => model.nombreEmpleado, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.cargoEmpleado, htmlAttributes: new { @class = "control-label col-md-4" })
+                        <div class="col-md-8">
+                            @Html.EditorFor(model => model.cargoEmpleado, new { htmlAttributes = new { @class = "form-control" } })
+                            @Html.ValidationMessageFor(model => model.cargoEmpleado, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.sexoEmpleado, htmlAttributes: new { @class = "control-label col-md-4" })
+                        <div class="col-md-8">
+                            @Html.EditorFor(model => model.sexoEmpleado, new { htmlAttributes = new { @class = "form-control" } })
+                            @Html.ValidationMessageFor(model => model.sexoEmpleado, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.activoEmpleado, htmlAttributes: new { @class = "control-label col-md-4" })
+                        <div class="col-md-8">
+                            <div class="checkbox">
+                                @Html.EditorFor(model => model.activoEmpleado)
+                                @Html.ValidationMessageFor(model => model.activoEmpleado, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.idDetalleLaboral, htmlAttributes: new { @class = "control-label col-md-2" })
+                        <div class="col-md-8">
+                            @Html.EditorFor(model => model.idDetalleLaboral, new { htmlAttributes = new { @class = "form-control" } })
+                            @Html.ValidationMessageFor(model => model.idDetalleLaboral, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+
+
+                </div>
+            </div>
+            <hr />
+            <div class="form-group">
+                <div class="col-md-offset-2 col-md-10">
+                    <input type="submit" value="Guardar empleado" class="btn btn-success" />
+                    @Html.ActionLink("Regresar a la lista", "ListaEmpleados", null, new { @class = "btn btn-black" })
+                </div>
+            </div>
+        </div>
+    </div>
+}
+
+<style>
+    .btn-black {
+        background-color: black;
+        color: white;
+    }
+
+</style>
+
+@section Scripts {
+    <script>
+        function importarDatos() {
+            var archivo = document.getElementById("archivoDatos").files[0];
+            var reader = new FileReader();
+
+            reader.onload = function (e) {
+                var contenido = e.target.result;
+                var lineas = contenido.split('\n');
+
+                // Asignar los valores a los campos correspondientes
+                document.getElementById("identificadorPersonal").value = lineas[0];
+                document.getElementById("nombreEmpleado").value = lineas[1];
+                document.getElementById("edadEmpleado").value = lineas[2];
+                document.getElementById("cargoEmpleado").value = lineas[3];
+                document.getElementById("telefonoEmpleado").value = lineas[4];
+                document.getElementById("sexoEmpleado").value = lineas[5];
+                document.getElementById("monto").value = lineas[6];
+            };
+
+            reader.readAsText(archivo);
+        }
+    </script>
+}
